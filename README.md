@@ -5,7 +5,7 @@ I am an Actuarial Science graduate with a strong analytical skills and a growing
 ## Skills
 - Excel
 - Power BI
-- R
+- R (beginner)
 - Python (beginner)
 
 ## Projects
